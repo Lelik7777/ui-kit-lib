@@ -31,6 +31,7 @@ rollupTypes:true,
       ],
       output: {
         dir: "dist",
+
         entryFileNames: "[name].cjs",
         format: "cjs",
       },
