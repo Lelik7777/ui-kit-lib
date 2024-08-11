@@ -1,0 +1,5 @@
+.button{
+all:unset;
+display: flex;
+padding: 10px;
+}
